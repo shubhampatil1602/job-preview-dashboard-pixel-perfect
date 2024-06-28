@@ -1,0 +1,15 @@
+/* Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* GeneralSans medium */
+/* @font-face {
+  font-family: 'general-sans';
+  src: url('/general-sans/WEB/fonts/GeneralSans-Medium.woff');
+}
+
+@font-face {
+  font-family: 'satoshi-variable';
+  src: url('/satoshi-variable/WEB/fonts/Satoshi-Bold.ttf');
+} */
