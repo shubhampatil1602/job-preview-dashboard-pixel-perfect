@@ -35,13 +35,13 @@ const Navbar = () => {
             </button>
           </div>
 
-          <div className='w-[8.375rem] h-[3.75rem] flex justify-center items-center gap-3'>
+          <div className=' h-[3.75rem] flex justify-center items-center '>
             <img
               src='/ghanta.png'
               alt='bell'
               className='w-8 h-[32px] mt-[3px] object-contain'
             />
-            <span className='text-red-600 text-3xl relative bottom-3.5 right-7'>
+            <span className='text-red-600 text-3xl relative bottom-3.5 right-4'>
               •
             </span>
             <div className='flex justify-center items-center gap-2'>
